@@ -8,7 +8,7 @@
 <form action="../Controlador/Main.php" method="post">
 	<div>
 	<div>
-		<font size="10">Farmacia M.G & M.W</font>
+		<font size="10">Farmacia </font>
 	</div>
 	<div>
 		<label><font size="5">Usuario</font></label>
