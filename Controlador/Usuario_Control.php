@@ -1,6 +1,6 @@
 <?php 
 
-require "../Modelo/Usuario_Model.php";
+require "../Modelo/Usuario_Model.php";//HOLA
 
 
 class Usuario_Control{
